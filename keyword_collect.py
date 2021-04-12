@@ -5,7 +5,7 @@ import time
 import pandas as pd
 
 #Academic申請後に生成される"Bearer Token(BT)"
-BT = '###############################'
+BT = '########################################'
 
 search_url = "https://api.twitter.com/2/tweets/search/all"
 
